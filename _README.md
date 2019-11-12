@@ -45,3 +45,5 @@ This goes pretty hand-in-hand with "unknown unknowns" on a project - sometimes y
 From what I can tell, the only way to avoid yak shaves is with experience. More experience means fewer unknown unknowns on a project, which means that I can think all the way through a problem without needing to necessarily investigate and learn all of the factors in play.
 
 ## Catfish programmer
+
+## Rituals and Artifacts
