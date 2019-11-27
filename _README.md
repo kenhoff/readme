@@ -47,3 +47,7 @@ From what I can tell, the only way to avoid yak shaves is with experience. More 
 ## Catfish programmer
 
 ## Rituals and Artifacts
+
+## futzing
+
+## time tracking w/ toggl
